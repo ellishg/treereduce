@@ -32,6 +32,7 @@ static:
 	  --bin treereduce-javascript \
 	  --bin treereduce-rust \
 	  --bin treereduce-souffle \
+	  --bin treereduce-swift \
 	  --locked \
 	  --release \
 	  --target=x86_64-unknown-linux-musl

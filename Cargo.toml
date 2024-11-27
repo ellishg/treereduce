@@ -6,6 +6,7 @@ members = [
     "crates/treereduce-javascript",
     "crates/treereduce-rust",
     "crates/treereduce-souffle",
+    "crates/treereduce-swift",
 ]
 
 # https://nnethercote.github.io/perf-book/build-configuration.html
